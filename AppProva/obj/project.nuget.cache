@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wXDBrRnWP9vl28w2bAAw/hti9YrrHF2TyMDyY7VBHUyYBIZTbSWfsyLdNGhMCHLqMfOjARUSjbM2C01ypidYag==",
+  "success": true,
+  "projectFilePath": "/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/AppProva.csproj",
+  "expectedPackageFiles": [
+    "/home/lorenigni/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/home/lorenigni/.nuget/packages/microsoft.visualstudio.azure.containers.tools.targets/1.14.0/microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "/home/lorenigni/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

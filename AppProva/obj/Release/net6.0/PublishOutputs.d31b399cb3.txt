@@ -1,0 +1,6 @@
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/bin/Release/net6.0/publish/AppProva
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/bin/Release/net6.0/publish/AppProva.dll
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/bin/Release/net6.0/publish/AppProva.deps.json
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/bin/Release/net6.0/publish/AppProva.runtimeconfig.json
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/bin/Release/net6.0/publish/AppProva.pdb
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/bin/Release/net6.0/publish/Microsoft.Extensions.Logging.Abstractions.dll

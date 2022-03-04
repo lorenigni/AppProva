@@ -1,0 +1,17 @@
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/bin/Release/net6.0/AppProva
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/bin/Release/net6.0/AppProva.deps.json
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/bin/Release/net6.0/AppProva.runtimeconfig.json
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/bin/Release/net6.0/AppProva.dll
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/bin/Release/net6.0/AppProva.pdb
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/bin/Release/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/obj/Release/net6.0/AppProva.csproj.AssemblyReference.cache
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/obj/Release/net6.0/AppProva.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/obj/Release/net6.0/AppProva.AssemblyInfoInputs.cache
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/obj/Release/net6.0/AppProva.AssemblyInfo.cs
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/obj/Release/net6.0/AppProva.csproj.CoreCompileInputs.cache
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/obj/Release/net6.0/AppProva.csproj.CopyComplete
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/obj/Release/net6.0/AppProva.dll
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/obj/Release/net6.0/refint/AppProva.dll
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/obj/Release/net6.0/AppProva.pdb
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/obj/Release/net6.0/AppProva.genruntimeconfig.cache
+/mnt/c/Users/kq8lorbenign/Desktop/VS/AppProva/AppProva/obj/Release/net6.0/ref/AppProva.dll

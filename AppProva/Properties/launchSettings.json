@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AppProva": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
